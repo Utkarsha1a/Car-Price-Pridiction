@@ -26,6 +26,7 @@ The backend part of the application was made using Flask and for the frotend par
 
 ### Web Application Demo
 
+https://user-images.githubusercontent.com/89068470/160889143-7ff13e3a-a29b-4314-8cd5-c008bebfd6ee.mp4
 
 
 
